@@ -1,0 +1,341 @@
+.inHouseProductionHistory {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 408px);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+}
+.productionInHouseDisplayChild {
+  position: absolute;
+  top: 100px;
+  left: 304px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 542px;
+  height: 54px;
+}
+.productionInHouseDisplayItem {
+  position: absolute;
+  top: 96px;
+  left: 1092px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 248px;
+  height: 61px;
+}
+.backToDashboard {
+  position: absolute;
+  top: 115px;
+  left: 1120px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.productionInHouseDisplayInner {
+  position: absolute;
+  top: 324px;
+  left: 61px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1310px;
+  height: 660px;
+}
+.lineIcon {
+  position: absolute;
+  top: 328.99px;
+  left: 1005px;
+  width: 6.01px;
+  height: 650.01px;
+}
+.rmWeight,
+.totalScrap {
+  position: absolute;
+  top: 345px;
+  left: 1035px;
+  display: inline-block;
+  width: 137px;
+  height: 24px;
+}
+.totalScrap {
+  top: 343px;
+  left: 1209px;
+  width: 140px;
+}
+.productionInHouseDisplayChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 202px;
+  left: 63px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1062px;
+  height: 69px;
+}
+.productionInHouseDisplayChild1 {
+  left: 1158px;
+  width: 178px;
+}
+.filter {
+  position: absolute;
+  top: 207px;
+  left: 1197px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 134px;
+  height: 59px;
+}
+.washerQty {
+  position: absolute;
+  top: 344px;
+  left: 454px;
+  display: inline-block;
+  width: 174px;
+  height: 21px;
+}
+.date,
+.partNo,
+.rmQty,
+.washerWeight {
+  position: absolute;
+  top: 345px;
+  left: 654px;
+}
+.date,
+.partNo,
+.rmQty {
+  left: 859px;
+  display: inline-block;
+  width: 124px;
+  height: 21px;
+}
+.date,
+.partNo {
+  top: 346px;
+  left: 205px;
+  width: 273px;
+}
+.date {
+  top: 345px;
+  left: 111px;
+  text-align: left;
+  width: 69px;
+}
+.productionInHouseDisplayChild2 {
+  position: absolute;
+  top: 328.99px;
+  left: 229px;
+  width: 6.01px;
+  height: 650.01px;
+}
+.productionInHouseDisplayChild3,
+.productionInHouseDisplayChild4 {
+  position: absolute;
+  top: 328.99px;
+  left: 440px;
+  width: 6.01px;
+  height: 650.01px;
+}
+.productionInHouseDisplayChild4 {
+  left: 639px;
+}
+.productionInHouseDisplayChild5,
+.productionInHouseDisplayChild6 {
+  position: absolute;
+  top: 328.99px;
+  left: 832px;
+  width: 6.01px;
+  height: 650.01px;
+}
+.productionInHouseDisplayChild6 {
+  left: 1193px;
+}
+.productionInHouseDisplayChild7,
+.productionInHouseDisplayChild8 {
+  position: absolute;
+  top: 374.79px;
+  left: 63.99px;
+  width: 1304.01px;
+  height: 5.9px;
+}
+.productionInHouseDisplayChild8 {
+  top: 422.3px;
+  height: 6.53px;
+}
+.productionInHouseDisplayChild10,
+.productionInHouseDisplayChild9 {
+  position: absolute;
+  top: 469.85px;
+  left: 65.98px;
+  width: 1300.02px;
+  height: 7.13px;
+}
+.productionInHouseDisplayChild10 {
+  top: 517.99px;
+}
+.productionInHouseDisplayChild11,
+.productionInHouseDisplayChild12 {
+  position: absolute;
+  top: 566.14px;
+  left: 65.98px;
+  width: 1300.02px;
+  height: 7.13px;
+}
+.productionInHouseDisplayChild12 {
+  top: 614.28px;
+  left: 67.98px;
+}
+.productionInHouseDisplayChild13,
+.productionInHouseDisplayChild14 {
+  position: absolute;
+  top: 662px;
+  left: 65.99px;
+  width: 1304.01px;
+  height: 5.9px;
+}
+.productionInHouseDisplayChild14 {
+  top: 709.51px;
+  height: 6.53px;
+}
+.productionInHouseDisplayChild15,
+.productionInHouseDisplayChild16 {
+  position: absolute;
+  top: 757px;
+  left: 63.98px;
+  width: 1300.02px;
+  height: 7.13px;
+}
+.productionInHouseDisplayChild16 {
+  top: 805.14px;
+}
+.productionInHouseDisplayChild17,
+.productionInHouseDisplayChild18 {
+  position: absolute;
+  top: 853.29px;
+  left: 63.98px;
+  width: 1300.02px;
+  height: 7.13px;
+}
+.productionInHouseDisplayChild18 {
+  top: 901.43px;
+  left: 65.98px;
+}
+.image1Icon,
+.image2Icon {
+  position: absolute;
+  top: 215px;
+  left: 83px;
+  width: 41px;
+  height: 43px;
+  object-fit: cover;
+}
+.image2Icon {
+  left: 1172px;
+  width: 44px;
+  height: 45px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 390px;
+  left: 865px;
+  color: var(--color-red-100);
+  display: inline-block;
+  width: 112px;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 1048px;
+}
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 1237px;
+  color: var(--color-limegreen-200);
+  width: 83px;
+}
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 695px;
+}
+.div4,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 499px;
+}
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 432px;
+  left: 865px;
+  color: var(--color-red-100);
+  width: 112px;
+}
+.div6,
+.div7,
+.div8,
+.div9 {
+  left: 1048px;
+}
+.div7,
+.div8,
+.div9 {
+  left: 1237px;
+  color: var(--color-limegreen-200);
+  width: 83px;
+}
+.div8,
+.div9 {
+  left: 695px;
+}
+.div9 {
+  left: 499px;
+}
+.productionInHouseDisplay {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

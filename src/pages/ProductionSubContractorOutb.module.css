@@ -1,0 +1,582 @@
+.productionEntry {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 628px);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+}
+.productionSubContractorOutbChild {
+  position: absolute;
+  top: 100px;
+  left: 52px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 390px;
+  height: 54px;
+}
+.productionSubContractorOutbItem {
+  position: absolute;
+  top: 96px;
+  left: 1092px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 248px;
+  height: 61px;
+}
+.backToDashboard {
+  position: absolute;
+  top: 112px;
+  left: 1120px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.productionSubContractorOutbInner {
+  position: absolute;
+  top: 96px;
+  left: 898px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 134px;
+  height: 61px;
+}
+.entries {
+  position: absolute;
+  top: 112px;
+  left: 932px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.productionSubContractorOutbChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 391px;
+  left: 47px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 628px;
+  height: 509px;
+}
+.productionSubContractorOutbChild1 {
+  top: 247px;
+  border-radius: var(--br-xs);
+  width: 1348px;
+  height: 111px;
+}
+.aluminium {
+  position: absolute;
+  top: 535px;
+  left: 417px;
+  display: inline-block;
+  width: 167px;
+  height: 28px;
+}
+.span {
+  text-decoration: underline;
+}
+.div,
+.l351345,
+.mm,
+.sheet {
+  position: absolute;
+  top: 409px;
+  left: 416px;
+  display: inline-block;
+  width: 167px;
+  height: 27px;
+}
+.l351345,
+.mm,
+.sheet {
+  top: 600px;
+  left: 438px;
+  width: 123px;
+}
+.l351345,
+.sheet {
+  top: 666px;
+  left: 408px;
+  width: 183px;
+}
+.l351345 {
+  top: 732px;
+  left: 409px;
+  height: 28px;
+}
+.lineIcon {
+  position: absolute;
+  top: 706.63px;
+  left: 51.99px;
+  width: 618.02px;
+  height: 7.75px;
+}
+.productionSubContractorOutbChild2,
+.productionSubContractorOutbChild3 {
+  position: absolute;
+  top: 643.5px;
+  left: 51.99px;
+  width: 618.02px;
+  height: 7.75px;
+}
+.productionSubContractorOutbChild3 {
+  top: 579.43px;
+}
+.form,
+.productionSubContractorOutbChild4,
+.productionSubContractorOutbChild5,
+.thickness {
+  position: absolute;
+  top: 454.13px;
+  left: 51.99px;
+  width: 618.02px;
+  height: 7.75px;
+}
+.form,
+.productionSubContractorOutbChild5,
+.thickness {
+  top: 772.58px;
+}
+.form,
+.thickness {
+  top: 600px;
+  left: 107px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 179px;
+  height: 27px;
+}
+.form {
+  top: 666px;
+  left: 168px;
+  width: 60px;
+}
+.recipient {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.name {
+  margin: 0;
+}
+.recipientAddress,
+.recipientName {
+  position: absolute;
+  top: 273px;
+  left: 65px;
+}
+.recipientAddress {
+  left: 684px;
+}
+.date,
+.lotNo,
+.material {
+  position: absolute;
+  top: 732px;
+  left: 140px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 117px;
+  height: 28px;
+}
+.date,
+.material {
+  top: 535px;
+  left: 61px;
+  width: 272px;
+}
+.date {
+  top: 411px;
+  left: 58px;
+  height: 27px;
+}
+.productionSubContractorOutbChild6 {
+  position: absolute;
+  top: 513.48px;
+  left: 51.99px;
+  width: 618.02px;
+  height: 7.75px;
+}
+.productionSubContractorOutbChild7 {
+  position: absolute;
+  top: 941px;
+  left: 604px;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray);
+  width: 240px;
+  height: 60px;
+}
+.save {
+  position: absolute;
+  top: 955px;
+  left: 693px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  text-align: left;
+}
+.productChild {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray);
+}
+.delete,
+.product,
+.product1,
+.productChild {
+  position: absolute;
+  height: 44px;
+}
+.delete {
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.product,
+.product1 {
+  width: 9.24%;
+  top: 949px;
+  right: 85.49%;
+  left: 5.28%;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.product1 {
+  right: 72.5%;
+  left: 18.26%;
+}
+.dropDownIcon,
+.dropDownIcon1,
+.dropDownIcon2,
+.dropDownIcon3 {
+  position: absolute;
+  top: 528px;
+  left: 596px;
+  width: 45px;
+  height: 43px;
+  object-fit: cover;
+}
+.dropDownIcon1,
+.dropDownIcon2,
+.dropDownIcon3 {
+  top: 593px;
+  height: 42px;
+}
+.dropDownIcon2,
+.dropDownIcon3 {
+  top: 658px;
+}
+.dropDownIcon3 {
+  top: 724px;
+  height: 43px;
+}
+.productionSubContractorOutbChild8 {
+  position: absolute;
+  top: 833.82px;
+  left: 51.99px;
+  width: 618.02px;
+  height: 7.75px;
+}
+.productionSubContractorOutbChild9 {
+  position: absolute;
+  top: 391px;
+  left: 767px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 628px;
+  height: 515px;
+}
+.div1,
+.inStock371,
+.inStock4430,
+.kg {
+  position: absolute;
+  top: 411px;
+  display: inline-block;
+}
+.div1 {
+  left: 966px;
+  text-decoration: underline;
+  width: 128px;
+}
+.inStock371,
+.inStock4430,
+.kg {
+  left: 1146px;
+  width: 170px;
+}
+.inStock4430,
+.kg {
+  top: 473px;
+  left: 1122px;
+  width: 218px;
+}
+.kg {
+  left: 951px;
+  width: 171px;
+}
+.lineDiv,
+.productionSubContractorOutbChild10 {
+  position: absolute;
+  top: 395.99px;
+  left: 959px;
+  width: 5.93px;
+  height: 504px;
+}
+.lineDiv {
+  top: 393.5px;
+  left: 1091.5px;
+  border-right: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 5px;
+  height: 129px;
+}
+.productionSubContractorOutbChild11,
+.productionSubContractorOutbChild12,
+.productionSubContractorOutbChild13 {
+  position: absolute;
+  top: 249.5px;
+  left: 664.5px;
+  border-right: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 5px;
+  height: 106px;
+}
+.productionSubContractorOutbChild12,
+.productionSubContractorOutbChild13 {
+  left: 809.5px;
+}
+.productionSubContractorOutbChild13 {
+  left: 193.5px;
+}
+.productionSubContractorOutbChild14 {
+  position: absolute;
+  top: 396px;
+  left: 363px;
+  width: 5.12px;
+  height: 505px;
+}
+.productionSubContractorOutbChild15,
+.productionSubContractorOutbChild16 {
+  position: absolute;
+  top: 449px;
+  left: 771.99px;
+  width: 618.02px;
+  height: 8px;
+}
+.productionSubContractorOutbChild16 {
+  top: 514px;
+  height: 7.92px;
+}
+.rmQuantity,
+.rmWeight {
+  position: absolute;
+  top: 411px;
+  left: 788px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 152px;
+}
+.rmWeight {
+  top: 473px;
+  left: 793px;
+  width: 150px;
+}
+.rs230kg {
+  position: absolute;
+  top: 538px;
+  left: 1065px;
+  display: inline-block;
+  width: 218px;
+}
+.productionSubContractorOutbChild17 {
+  position: absolute;
+  top: 579px;
+  left: 771.99px;
+  width: 618.02px;
+  height: 7.92px;
+}
+.rate,
+.rs8050 {
+  position: absolute;
+}
+.rate {
+  top: 538px;
+  left: 793px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+}
+.rs8050 {
+  top: 601px;
+  left: 1065px;
+  display: inline-block;
+  width: 218px;
+}
+.productionSubContractorOutbChild18 {
+  position: absolute;
+  top: 642px;
+  left: 771.99px;
+  width: 618.02px;
+  height: 7.92px;
+}
+.div2,
+.value {
+  position: absolute;
+}
+.value {
+  top: 601px;
+  left: 793px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+}
+.div2 {
+  top: 664px;
+  left: 1065px;
+  display: inline-block;
+  width: 218px;
+}
+.productionSubContractorOutbChild19 {
+  position: absolute;
+  top: 705px;
+  left: 771.99px;
+  width: 618.02px;
+  height: 7.92px;
+}
+.taxRate {
+  position: absolute;
+  top: 664px;
+  left: 793px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+}
+.rs1449 {
+  position: absolute;
+  top: 727px;
+  left: 1065px;
+  display: inline-block;
+  width: 218px;
+}
+.productionSubContractorOutbChild20 {
+  position: absolute;
+  top: 768px;
+  left: 771.99px;
+  width: 618.02px;
+  height: 7.92px;
+}
+.taxAmount {
+  position: absolute;
+  top: 727px;
+  left: 793px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+}
+.rs9499 {
+  position: absolute;
+  top: 790px;
+  left: 1065px;
+  display: inline-block;
+  width: 218px;
+}
+.productionSubContractorOutbChild21 {
+  position: absolute;
+  top: 831px;
+  left: 771.99px;
+  width: 618.02px;
+  height: 7.92px;
+}
+.addNew,
+.totalAmount {
+  position: absolute;
+  top: 790px;
+  left: 785px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 166px;
+}
+.addNew {
+  top: 850px;
+  left: 798px;
+  font-weight: 700;
+  width: 140px;
+}
+.subContractor {
+  position: absolute;
+  top: 103px;
+  left: calc(50% - 203px);
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-poppins);
+}
+.productionSubContractorOutbChild22 {
+  position: absolute;
+  top: 96px;
+  left: 505px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 330px;
+  height: 62px;
+}
+.outbound {
+  position: absolute;
+  top: 179px;
+  left: calc(50% - 523px);
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-poppins);
+}
+.productionSubContractorOutbChild23 {
+  position: absolute;
+  top: 176px;
+  left: 170px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 268px;
+  height: 54px;
+}
+.dropDownIcon4,
+.dropDownIcon5 {
+  position: absolute;
+  top: 180px;
+  left: 377px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.dropDownIcon5 {
+  top: 104px;
+  left: 785px;
+}
+.productionSubContractorOutb {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

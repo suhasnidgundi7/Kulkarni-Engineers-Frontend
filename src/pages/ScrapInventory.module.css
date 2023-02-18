@@ -1,0 +1,340 @@
+.scrapInventory1 {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 294px);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+}
+.scrapInventoryChild {
+  position: absolute;
+  top: 100px;
+  left: 367px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 416px;
+  height: 54px;
+}
+.scrapInventoryItem {
+  position: absolute;
+  top: 96px;
+  left: 1092px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 248px;
+  height: 61px;
+}
+.backToDashboard {
+  position: absolute;
+  top: 115px;
+  left: 1120px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.scrapInventoryInner {
+  position: absolute;
+  top: 224px;
+  left: 59px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1310px;
+  height: 753px;
+}
+.kg,
+.kg1,
+.total {
+  position: absolute;
+  top: 401px;
+  left: 1185px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 111px;
+  height: 25px;
+}
+.kg1,
+.total {
+  top: 352px;
+}
+.total {
+  top: 240px;
+  left: 1170px;
+  width: 141px;
+}
+.lineIcon {
+  position: absolute;
+  top: 226px;
+  left: 1092px;
+  width: 5.46px;
+  height: 749px;
+}
+.kg2,
+.kg3,
+.kg4,
+.material {
+  position: absolute;
+  top: 240px;
+  left: 141px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 111px;
+  height: 25px;
+}
+.kg2,
+.kg3,
+.kg4 {
+  top: 292px;
+  left: 399px;
+}
+.kg3,
+.kg4 {
+  top: 349px;
+}
+.kg4 {
+  top: 405px;
+  left: 389px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.kg10,
+.kg11,
+.kg5,
+.kg6,
+.kg7,
+.kg8,
+.kg9,
+.pattiScrap,
+.tikliScrap {
+  position: absolute;
+  top: 297px;
+  left: 659px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 111px;
+  height: 25px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.kg10,
+.kg11,
+.kg6,
+.kg7,
+.kg8,
+.kg9,
+.pattiScrap,
+.tikliScrap {
+  top: 349px;
+  left: 657px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.kg10,
+.kg11,
+.kg7,
+.kg8,
+.kg9,
+.pattiScrap,
+.tikliScrap {
+  top: 409px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.kg10,
+.kg11,
+.kg8,
+.kg9,
+.pattiScrap,
+.tikliScrap {
+  top: 296px;
+  left: 928px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.kg10,
+.kg11,
+.kg9,
+.pattiScrap,
+.tikliScrap {
+  left: 1185px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.kg10,
+.kg11,
+.pattiScrap,
+.tikliScrap {
+  top: 357px;
+  left: 928px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.kg11,
+.pattiScrap,
+.tikliScrap {
+  top: 409px;
+  left: 924px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.pattiScrap,
+.tikliScrap {
+  top: 240px;
+  left: 384px;
+  width: 141px;
+}
+.aluminium,
+.brass,
+.copper,
+.cutWasher,
+.pattiScrap {
+  top: 296px;
+  left: 118px;
+}
+.brass,
+.copper,
+.cutWasher,
+.pattiScrap {
+  top: 353px;
+}
+.brass,
+.cutWasher,
+.pattiScrap {
+  top: 408px;
+}
+.cutWasher,
+.pattiScrap {
+  top: 236px;
+  left: 642px;
+}
+.cutWasher {
+  top: 240px;
+  left: 915px;
+}
+.scrapInventoryChild1,
+.scrapInventoryChild2 {
+  position: absolute;
+  top: 222.99px;
+  left: 317px;
+  width: 6.54px;
+  height: 756.01px;
+}
+.scrapInventoryChild2 {
+  left: 575px;
+  width: 6.46px;
+}
+.scrapInventoryChild3 {
+  position: absolute;
+  top: 223px;
+  left: 849px;
+  width: 5.46px;
+  height: 749px;
+}
+.scrapInventoryChild4 {
+  position: absolute;
+  top: 277.07px;
+  left: 64px;
+  width: 1304px;
+  height: 6.04px;
+}
+.scrapInventoryChild5 {
+  position: absolute;
+  top: 332.33px;
+  left: 63.99px;
+  width: 1304.01px;
+  height: 6.78px;
+}
+.scrapInventoryChild6 {
+  position: absolute;
+  top: 387.63px;
+  left: 65.99px;
+  width: 1300.02px;
+  height: 7.47px;
+}
+.scrapInventoryChild7,
+.scrapInventoryChild8,
+.scrapInventoryChild9 {
+  position: absolute;
+  top: 443.63px;
+  left: 65.99px;
+  width: 1300.02px;
+  height: 7.47px;
+}
+.scrapInventoryChild8,
+.scrapInventoryChild9 {
+  top: 499.62px;
+}
+.scrapInventoryChild9 {
+  top: 555.62px;
+  left: 67.99px;
+}
+.scrapInventoryChild10 {
+  position: absolute;
+  top: 611.12px;
+  left: 66px;
+  width: 1304px;
+  height: 6.04px;
+}
+.scrapInventoryChild11 {
+  position: absolute;
+  top: 666.38px;
+  left: 65.99px;
+  width: 1304.01px;
+  height: 6.78px;
+}
+.scrapInventoryChild12 {
+  position: absolute;
+  top: 721.61px;
+  left: 63.99px;
+  width: 1300.02px;
+  height: 7.47px;
+}
+.scrapInventoryChild13,
+.scrapInventoryChild14,
+.scrapInventoryChild15 {
+  position: absolute;
+  top: 777.61px;
+  left: 63.99px;
+  width: 1300.02px;
+  height: 7.47px;
+}
+.scrapInventoryChild14,
+.scrapInventoryChild15 {
+  top: 833.6px;
+}
+.scrapInventoryChild15 {
+  top: 889.6px;
+  left: 65.99px;
+}
+.scrapInventory {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

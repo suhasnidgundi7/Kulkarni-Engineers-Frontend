@@ -1,0 +1,327 @@
+.btdButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 248px;
+  height: 61px;
+}
+.backToDashboard,
+.btdButton {
+  position: absolute;
+  top: 16px;
+  left: 28px;
+}
+.btdButton {
+  top: 96px;
+  left: 1092px;
+  width: 248px;
+  height: 61px;
+  text-align: left;
+}
+.historyButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 134px;
+  height: 61px;
+}
+.history {
+  position: absolute;
+  top: 16px;
+  left: 33px;
+}
+.historyButton,
+.structureIcon {
+  position: absolute;
+  top: 96px;
+  left: 898px;
+  width: 134px;
+  height: 61px;
+}
+.structureIcon {
+  top: -5px;
+  left: -3px;
+  width: 1310px;
+  height: 583px;
+}
+.span {
+  text-decoration: underline;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 709px;
+  display: inline-block;
+  width: 156px;
+}
+.div1 {
+  top: 69px;
+  left: 748px;
+  width: 74px;
+}
+.l351345 {
+  top: 138px;
+  left: 651px;
+  text-decoration: underline;
+  width: 272px;
+}
+.l351345,
+.mm,
+.sheet {
+  position: absolute;
+  display: inline-block;
+}
+.sheet {
+  top: 208px;
+  left: 748px;
+  text-decoration: underline;
+  width: 78px;
+}
+.mm {
+  top: 275px;
+  left: 721px;
+  width: 132px;
+}
+.div2,
+.inStock235,
+.inStock2750,
+.kg {
+  position: absolute;
+  top: 340px;
+  display: inline-block;
+}
+.div2 {
+  left: 599px;
+  text-decoration: underline;
+  width: 48px;
+}
+.inStock235,
+.inStock2750,
+.kg {
+  left: 785px;
+  width: 276px;
+}
+.inStock2750,
+.kg {
+  top: 406px;
+}
+.kg {
+  left: 566px;
+  width: 114px;
+}
+.addNew,
+.date,
+.form,
+.lotNo,
+.quantity,
+.thickness,
+.time,
+.weight {
+  position: absolute;
+  top: 72px;
+  left: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 136px;
+}
+.addNew,
+.date,
+.form,
+.lotNo,
+.quantity,
+.thickness,
+.weight {
+  top: 138px;
+  left: 78px;
+}
+.addNew,
+.date,
+.form,
+.quantity,
+.thickness,
+.weight {
+  top: 4px;
+  left: 84px;
+  width: 127px;
+}
+.addNew,
+.form,
+.quantity,
+.thickness,
+.weight {
+  top: 208px;
+  left: 112px;
+  width: 71px;
+}
+.addNew,
+.quantity,
+.thickness,
+.weight {
+  top: 275px;
+  left: 66px;
+  width: 163px;
+}
+.addNew,
+.quantity,
+.weight {
+  top: 341px;
+  left: 30px;
+  width: 236px;
+}
+.addNew,
+.weight {
+  top: 409px;
+  left: 52px;
+  width: 192px;
+}
+.addNew {
+  top: 480px;
+  left: 0;
+  font-weight: 700;
+  width: 295px;
+}
+.content,
+.table {
+  position: absolute;
+  top: 20px;
+  left: 181px;
+  width: 1061px;
+  height: 509px;
+}
+.table {
+  top: 193px;
+  left: 62px;
+  width: 1304px;
+  height: 574px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.saveButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray);
+  width: 240px;
+  height: 60px;
+}
+.save,
+.saveButton {
+  position: absolute;
+  top: 14px;
+  left: 89px;
+}
+.saveButton {
+  top: 847px;
+  left: 596px;
+  width: 240px;
+  height: 60px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.delete,
+.deleteButtonChild {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 44px;
+}
+.deleteButtonChild {
+  right: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray);
+}
+.delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.deleteButton,
+.editButton {
+  position: absolute;
+  width: 9.24%;
+  top: 855px;
+  right: 86.04%;
+  left: 4.72%;
+  height: 44px;
+}
+.editButton {
+  right: 73.06%;
+  left: 17.71%;
+}
+.aluminium {
+  position: absolute;
+  top: 3px;
+  left: calc(50% - 104px);
+}
+.materialChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 316px;
+  height: 54px;
+}
+.dropDownIcon {
+  position: absolute;
+  top: 4px;
+  left: 260px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.material {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 208px);
+  width: 316px;
+  height: 54px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+}
+.rawMaterialEntry {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 174px);
+}
+.title,
+.titleChild {
+  position: absolute;
+  width: 390px;
+  height: 54px;
+}
+.titleChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.title {
+  top: 100px;
+  left: calc(50% - 668px);
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.rawMaterialInput {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,218 @@
+.washerInventory1 {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 312px);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+}
+.washerInventoryChild {
+  position: absolute;
+  top: 100px;
+  left: 367px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 416px;
+  height: 54px;
+}
+.washerInventoryItem {
+  position: absolute;
+  top: 96px;
+  left: 1092px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 248px;
+  height: 61px;
+}
+.backToDashboard {
+  position: absolute;
+  top: 115px;
+  left: 1120px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.rectangleDiv,
+.washerInventoryInner {
+  position: absolute;
+  top: 339px;
+  left: 59px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1310px;
+  height: 639px;
+}
+.rectangleDiv {
+  top: 200px;
+  width: 447px;
+  height: 72px;
+}
+.div,
+.div1,
+.kg,
+.material,
+.partNo,
+.quantity,
+.weight {
+  position: absolute;
+  top: 223px;
+  left: 83px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 111px;
+  height: 25px;
+}
+.div,
+.div1,
+.kg,
+.partNo,
+.quantity,
+.weight {
+  top: 353px;
+  left: 170px;
+  width: 141px;
+}
+.div,
+.div1,
+.kg,
+.quantity,
+.weight {
+  top: 409px;
+  left: 168px;
+}
+.div1,
+.kg,
+.quantity,
+.weight {
+  left: 586px;
+}
+.div1,
+.quantity,
+.weight {
+  left: 1075px;
+}
+.quantity,
+.weight {
+  top: 353px;
+  left: 586px;
+}
+.quantity {
+  left: 1076px;
+}
+.lineDiv,
+.lineIcon {
+  position: absolute;
+  top: 338.99px;
+  left: 418px;
+  width: 6.54px;
+  height: 640.01px;
+}
+.lineDiv {
+  top: 202.5px;
+  left: 202.5px;
+  border-right: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 5px;
+  height: 67px;
+}
+.washerInventoryChild1 {
+  position: absolute;
+  top: 339px;
+  left: 912px;
+  width: 5.46px;
+  height: 634.08px;
+}
+.washerInventoryChild2 {
+  position: absolute;
+  top: 389.07px;
+  left: 64px;
+  width: 1304px;
+  height: 6.04px;
+}
+.washerInventoryChild3 {
+  position: absolute;
+  top: 444.33px;
+  left: 63.99px;
+  width: 1304.01px;
+  height: 6.78px;
+}
+.washerInventoryChild4 {
+  position: absolute;
+  top: 499.63px;
+  left: 65.99px;
+  width: 1300.02px;
+  height: 7.47px;
+}
+.washerInventoryChild5,
+.washerInventoryChild6,
+.washerInventoryChild7 {
+  position: absolute;
+  top: 555.63px;
+  left: 65.99px;
+  width: 1300.02px;
+  height: 7.47px;
+}
+.washerInventoryChild6,
+.washerInventoryChild7 {
+  top: 611.62px;
+}
+.washerInventoryChild7 {
+  top: 667.62px;
+  left: 67.99px;
+}
+.washerInventoryChild8 {
+  position: absolute;
+  top: 723.12px;
+  left: 66px;
+  width: 1304px;
+  height: 6.04px;
+}
+.washerInventoryChild9 {
+  position: absolute;
+  top: 778.38px;
+  left: 65.99px;
+  width: 1304.01px;
+  height: 6.78px;
+}
+.washerInventoryChild10,
+.washerInventoryChild11 {
+  position: absolute;
+  top: 833.61px;
+  left: 63.99px;
+  width: 1300.02px;
+  height: 7.47px;
+}
+.washerInventoryChild11 {
+  top: 889.61px;
+}
+.aluminium {
+  position: absolute;
+  top: 221px;
+  left: 246px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 167px;
+}
+.dropDownIcon {
+  position: absolute;
+  top: 213px;
+  left: 425px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.washerInventory {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

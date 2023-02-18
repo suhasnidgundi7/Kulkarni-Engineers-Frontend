@@ -1,0 +1,464 @@
+.processingEntry {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 628px);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+}
+.shearingInHouseInputChild {
+  position: absolute;
+  top: 100px;
+  left: 52px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 390px;
+  height: 54px;
+}
+.shearingInHouseInputItem {
+  position: absolute;
+  top: 96px;
+  left: 1092px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 248px;
+  height: 61px;
+}
+.backToDashboard {
+  position: absolute;
+  top: 112px;
+  left: 1120px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.shearingInHouseInputInner {
+  position: absolute;
+  top: 96px;
+  left: 898px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  width: 134px;
+  height: 61px;
+}
+.entries {
+  position: absolute;
+  top: 112px;
+  left: 932px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 275px;
+  left: 37px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 626px;
+  height: 315px;
+}
+.lotNo {
+  position: absolute;
+  top: 541px;
+  left: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 272px;
+}
+.aluminium {
+  position: absolute;
+  top: 351px;
+  left: 407px;
+  display: inline-block;
+  width: 167px;
+}
+.span {
+  text-decoration: underline;
+}
+.div,
+.lineIcon {
+  position: absolute;
+}
+.div {
+  top: 284px;
+  left: 406px;
+  display: inline-block;
+  width: 167px;
+}
+.lineIcon {
+  top: 332px;
+  left: 41.99px;
+  width: 618.02px;
+  height: 7.92px;
+}
+.lineDiv,
+.shearingInHouseInputChild2 {
+  position: absolute;
+  top: 403.5px;
+  left: 34.5px;
+  border-top: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 632px;
+  height: 5px;
+}
+.shearingInHouseInputChild2 {
+  top: 466.5px;
+}
+.date,
+.material {
+  position: absolute;
+  top: 351px;
+  left: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 272px;
+}
+.date {
+  top: 286px;
+  left: 48px;
+}
+.shearingInHouseInputChild3 {
+  position: absolute;
+  top: 931px;
+  left: 604px;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslategray);
+  width: 240px;
+  height: 60px;
+}
+.save {
+  position: absolute;
+  top: 945px;
+  left: 693px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  text-align: left;
+}
+.delete,
+.productChild {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 44px;
+}
+.productChild {
+  right: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray);
+}
+.delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.product {
+  width: 9.24%;
+  top: 939px;
+  right: 85.49%;
+  left: 5.28%;
+  height: 44px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.product,
+.product1,
+.shearing {
+  position: absolute;
+  font-family: var(--font-poppins);
+}
+.product1 {
+  width: 9.24%;
+  top: 939px;
+  right: 72.5%;
+  left: 18.26%;
+  height: 44px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.shearing {
+  top: 103px;
+  left: calc(50% - 125px);
+  font-size: var(--font-size-2xl);
+}
+.shearingInHouseInputChild4 {
+  position: absolute;
+  top: 100px;
+  left: 512px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 316px;
+  height: 54px;
+}
+.dropDownIcon {
+  position: absolute;
+  top: 343px;
+  left: 586px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.mm,
+.thickness {
+  position: absolute;
+  top: 425px;
+}
+.mm {
+  left: 407px;
+  display: inline-block;
+  width: 167px;
+}
+.thickness {
+  left: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 272px;
+}
+.dropDownIcon1 {
+  position: absolute;
+  top: 417px;
+  left: 586px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.b,
+.length,
+.mm1 {
+  position: absolute;
+  top: 488px;
+}
+.mm1 {
+  left: 407px;
+  display: inline-block;
+  width: 167px;
+}
+.b,
+.length {
+  left: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 272px;
+}
+.b {
+  top: 551px;
+  left: 372px;
+}
+.dropDownIcon2 {
+  position: absolute;
+  top: 480px;
+  left: 586px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.shearingInHouseInputChild5 {
+  position: absolute;
+  top: 601px;
+  left: 42px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 628px;
+  height: 207px;
+}
+.div1,
+.kg {
+  position: absolute;
+  top: 684px;
+  left: 241px;
+  display: inline-block;
+  width: 128px;
+}
+.div1 {
+  top: 624px;
+  text-decoration: underline;
+}
+.inStock341,
+.inStock4080 {
+  position: absolute;
+  top: 684px;
+  left: 398px;
+}
+.inStock341 {
+  top: 624px;
+  left: 427px;
+}
+.shearingInHouseInputChild6 {
+  position: absolute;
+  top: 606px;
+  left: 234px;
+  width: 6.17px;
+  height: 196.61px;
+}
+.shearingInHouseInputChild7 {
+  position: absolute;
+  top: 603.5px;
+  left: 372.5px;
+  border-right: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 5px;
+  height: 136px;
+}
+.shearingInHouseInputChild8 {
+  position: absolute;
+  top: 269.95px;
+  left: 353px;
+  width: 8px;
+  height: 315.05px;
+}
+.shearingInHouseInputChild9 {
+  position: absolute;
+  top: 528px;
+  left: 36.99px;
+  width: 633.01px;
+  height: 6px;
+}
+.shearingInHouseInputChild10 {
+  position: absolute;
+  top: 662px;
+  left: 45.99px;
+  width: 618.02px;
+  height: 8px;
+}
+.shearingInHouseInputChild11 {
+  position: absolute;
+  top: 731.95px;
+  left: 46.99px;
+  width: 618.03px;
+  height: 7.05px;
+}
+.addNew,
+.sheetQty,
+.sheetWeight {
+  position: absolute;
+  top: 684px;
+  left: 37px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 204px;
+}
+.addNew,
+.sheetQty {
+  top: 624px;
+  left: 63px;
+  width: 152px;
+}
+.addNew {
+  top: 753px;
+  left: 69px;
+  font-weight: 700;
+  width: 140px;
+}
+.shearingInHouseInputChild12 {
+  position: absolute;
+  top: 261px;
+  left: 758px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  border: 5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 628px;
+  height: 147px;
+}
+.shearingInHouseInputChild13 {
+  position: absolute;
+  top: 264px;
+  left: 950px;
+  width: 5.91px;
+  height: 138.73px;
+}
+.div2 {
+  position: absolute;
+  top: 284px;
+  left: 1056px;
+  display: inline-block;
+  width: 218px;
+}
+.shearingInHouseInputChild14 {
+  position: absolute;
+  top: 327px;
+  left: 762.99px;
+  width: 618.02px;
+  height: 7.92px;
+}
+.addNew1,
+.stripsQty {
+  position: absolute;
+  top: 284px;
+  left: 784px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+}
+.addNew1 {
+  top: 351px;
+  left: 789px;
+  font-weight: 700;
+  width: 140px;
+}
+.inHouse {
+  position: absolute;
+  top: 179px;
+  left: calc(50% - 149px);
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-poppins);
+}
+.shearingInHouseInputChild15 {
+  position: absolute;
+  top: 176px;
+  left: 536px;
+  border-radius: var(--br-2xs);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 268px;
+  height: 54px;
+}
+.dropDownIcon3 {
+  position: absolute;
+  top: 180px;
+  left: 743px;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.lotNo1,
+.shearingInHouseInputChild16 {
+  position: absolute;
+  top: 528px;
+  left: 48px;
+  width: 623px;
+  height: 2px;
+}
+.lotNo1 {
+  top: 0;
+  left: 1186px;
+  font-size: 12px;
+  text-align: left;
+  display: inline-block;
+  width: 254px;
+  height: 32px;
+}
+.shearingInHouseInput {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
