@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import { useFormik } from 'formik';
 import axios from 'axios';
 import { AuthContext } from '../../context/AuthContext';
+import { useNavigate } from 'react-router-dom';
 
 const Login = () => {
     const { handleLogin } = useContext(AuthContext);
@@ -70,6 +71,7 @@ const Login = () => {
                                 </div>
                                 <div className="d-flex align-items-center justify-content-between mt-4 mb-0">
                                     <a className="small" href="/forgot-password">Forgot Password?</a>
+                                    <a className="small" href="/register">Don't Have Account</a>
                                     <button type="submit" className="btn btn-primary">Login</button>
                                 </div>
                             </form>
