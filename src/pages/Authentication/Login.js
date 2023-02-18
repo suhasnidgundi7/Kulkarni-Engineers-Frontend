@@ -2,7 +2,6 @@ import React, { useContext } from 'react';
 import { useFormik } from 'formik';
 import axios from 'axios';
 import { AuthContext } from '../../context/AuthContext';
-import { useNavigate } from 'react-router';
 
 const Login = () => {
     const { handleLogin } = useContext(AuthContext);
