@@ -1,12 +1,11 @@
 import React, { useContext } from 'react';
 import { useFormik } from 'formik';
 import axios from 'axios';
-import { useNavigation } from 'react-router-dom';
 import { AuthContext } from '../../context/AuthContext';
 
 const Login = () => {
     const { handleLogin } = useContext(AuthContext);
-    const navigate = useNavigation();
+    const navigate = useNavigate();
     const formik = useFormik({
         initialValues: {
             email: '',
@@ -31,7 +30,7 @@ const Login = () => {
                 .then(response => {
                     console.log(response.data);
                     handleLogin(response.data.loginId, response.data.userType);
-                    navigate("/");
+                    navigate('/');
                 })
                 .catch(error => {
                     console.error(error);
