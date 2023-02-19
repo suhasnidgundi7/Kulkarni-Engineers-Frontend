@@ -4,7 +4,7 @@ const Homepage = () => {
   return (
     <div className={styles.homepage}>
       <div className={styles.screens}>
-        <div className={styles.screen}>
+        <div onClick={() => alert("Hello WOrld")} className={styles.screen}>
           <div className={styles.screenChild} />
           <b className={styles.rawMaterial}>Raw Material</b>
           <img

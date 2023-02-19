@@ -1,4 +1,4 @@
-import { Routes, Route, Navigate } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import { useContext } from "react";
 import { AuthContext } from "../context/AuthContext";
 import MainRoutes from "./MainRoutes";
@@ -6,6 +6,7 @@ import AuthenticationRoutes from "./AuthenticationRoutes";
 
 const CustomRoutes = () => {
     const { isLoggedIn } = useContext(AuthContext);
+
 
     return (
         <Routes>

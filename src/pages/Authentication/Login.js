@@ -27,6 +27,7 @@ const Login = () => {
             return errors;
         },
         onSubmit: values => {
+            console.log(values);
             axios.post('https://kulkarni-engineers.onrender.com/login', values)
                 .then(response => {
                     console.log(response.data);

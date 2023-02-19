@@ -1,12 +1,26 @@
 import { Routes, Route } from "react-router-dom";
 import Homepage from "../pages/Homepage";
+import ProductionInHouseDisplay from "../pages/ProductionInHouseDisplay";
+import RawMaterialDisplay from "../pages/RawMaterialDisplay";
+import MeltingInput from "../pages/MeltingInput";
+import RawMaterialInput from "../pages/RawMaterialInput";
+import WasherInventory from "../pages/WasherInventory";
+import ScrapInventory from "../pages/ScrapInventory";
+import ProductionInHouseInput from "../pages/ProductionInHouseInput";
+import ProductionSubContractorDisp from "../pages/ProductionSubContractorDisp";
+import ShearingDisplay from "../pages/ShearingDisplay";
+import ScrapDisplay from "../pages/ScrapDisplay";
+import ProductionSubContractorInbo from "../pages/ProductionSubContractorInbo";
+import ProductionSubContractorOutb from "../pages/ProductionSubContractorOutb";
+import ShearingSubContractorInput from "../pages/ShearingSubContractorInput";
+import ShearingInHouseInput from "../pages/ShearingInHouseInput";
 
 const MainRoutes = () => {
     return (
         <Routes>
             <Route path="/" element={<Homepage />} />
 
-            {/* <Route
+            <Route
                 path="/production-inhouse-input"
                 element={<ProductionInHouseInput />}
             />
@@ -53,7 +67,7 @@ const MainRoutes = () => {
                 element={<ShearingInHouseInput />}
             />
 
-            <Route path="/melting-input" element={<MeltingInput />} /> */}
+            <Route path="/melting-input" element={<MeltingInput />} />
         </Routes>
     );
 };
